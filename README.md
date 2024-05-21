@@ -3,10 +3,24 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - Conducting a Security Audit
+  - Analyzing Network Structure and Security
+  - Using Linux commands to manage file permissions
+  - Applying filters to SQL queries
+  - Identifying vulnerabilities for a small business
+  - Documenting incidents with an incident handler's journal
+  - Importing and parsing a text file in a security-related scenario
 
     <h2> - Certifications</h2> 
     
-    - Google Cyber Security Certification (https://www.linkedin.com/in/jessica-herrera-dean-66644712/details/certifications/)
+    - Google Cybersecurity Certification (https://www.linkedin.com/in/jessica-herrera-dean-66644712/details/certifications/)
+    - Foundations of Cybersecurity
+    - Tools of the Trade: Linux and SQL
+    - Play It Safe: Manage Security Risks
+    - Connect and Protect: Networks and Network Security
+    - Sound the Alarm: Detection and Response
+    - Assets, Threats, and Vulnerabilities
+    - Automate Cybersecurity Tasks with Python
 
 <h2>📺 Popular YouTube Videos</h2>
 
