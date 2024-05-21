@@ -6,7 +6,7 @@
 
     <h2> - Certifications</h2> 
     
-    - [Google Cyber Security Certification] (https://www.linkedin.com/in/jessica-herrera-dean-66644712/details/certifications/)
+    - Google Cyber Security Certification (https://www.linkedin.com/in/jessica-herrera-dean-66644712/details/certifications/)
 
 <h2>📺 Popular YouTube Videos</h2>
 
