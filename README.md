@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Conducting a Security Audit](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Conducting a Security Audit]
   - Analyzing Network Structure and Security
   - Using Linux commands to manage file permissions
