@@ -4,12 +4,12 @@
 
   - [Conducting a Security Audit](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Analyzing Network Structure and Security](https://github.com/joshmadakor1/Algorithms-Practice)
-  - Analyzing Network Structure and Security
-  - Using Linux commands to manage file permissions
-  - Applying filters to SQL queries
-  - Identifying vulnerabilities for a small business
-  - Documenting incidents with an incident handler's journal
-  - Importing and parsing a text file in a security-related scenario
+  - [Using Linux commands to manage file permissions](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Applying filters to SQL queries](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Identifying vulnerabilities for a small business](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Documenting incidents with an incident handler's journal](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Importing and parsing a text file in a security-related scenario](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
     <h2> - Certifications</h2> 
     
